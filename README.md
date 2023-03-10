@@ -12,6 +12,7 @@ This is an analysis on CitiBike data a bike sharing company, from August 2019. T
     - Jupyter Notebook
     - Tableau 
 
+
 ## Results
 
 ### Generated Code, DataFram, and Tableau. 
@@ -24,11 +25,11 @@ This is an analysis on CitiBike data a bike sharing company, from August 2019. T
 
 ### Summary of Findings 
 
-In analyzing the whole data set we find that there are many useful conclusions we can draw to help make a business plan for a new bikeshare company in Iowa. The information I like to point out is around when and how the bike fleet could be maintained. We see that there are many bikes that are used more than others and that there are stations that are utilized more often the others. We also understand when peak hours are, during the 8am hour and from 4pm-8pm. The slowest hours are from 1am-6am. With this data we can make some important decisions that will help our bikes last and be properly maintained. 
+In analyzing the whole data set we find that there are many useful conclusions we can draw to help make a business plan for a new bikeshare company in Iowa. The information I’d like to point out is around when and how the bike fleet could be maintained. We see that there are about 70 bikes that are used significantly more than others and that there are stations that are utilized more often the others. We also understand when peak hours are, during the 8am hour and from 4pm-8pm. The slowest hours are from 1am-6am. With this data we can make some important decisions that will help our bikes last and be properly maintained.  These decisions include like when we do maintenance and when we move bikes from low usage sites to high usage sites to make sure that there are enough bikes to start each day at all the pick up stations. 
 
-The other big observation this data has led me to is that men are more apt to use bikes then women are and that it may be possible to have a special marketing plan based on this information. Add in when gender types are using the bikes most during the week, we can defiantly understand that Thursdays are likely to be a busy day. Specials could be run on Thursdays to capture more subscribers to the program. 
+The other big observation this data has led me to is that men are more apt to use bikes then women are and that it may be possible to have a special marketing plan based on this information. Add in when gender types are using the bikes most during the week, we understand that Thursdays are likely to be a busy day. Specials could be run on Thursdays to capture more subscribers to the program. 
 
-In conclusion there are lots of possibilities to find all kinds of information in this data set that can help. Furthermore, there is still data here we could glean. Usage by age could be useful and broken down in many different ways. Further breaking down how far people ride based on different subgroups like, age, user type, and from where they start and end their rides. 
+In conclusion there are lots of possibilities to find all kinds of information in these visualizations that can help. Furthermore, there is still data here we could glean. Usage by age could be analyzed and broken down in many different ways. Further breaking down how far people ride based on different subgroups like, age, user type, and from where they start and end their rides could bring us more ideas and help us further along. 
 
 
 ## Visualizations 
