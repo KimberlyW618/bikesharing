@@ -15,8 +15,7 @@ This is an analysis on CitiBike data a bike sharing company, from August 2019. T
 ## Results
 
 ### Generated Code, DataFram, and Tableau. 
-- Tableau Story Link 
-[https://public.tableau.com/views/NYC_Bike_Analysis_16783385402330/Story?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/NYC_Bike_Analysis_16783385402330/Story?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+- Tableau Story Link [https://public.tableau.com/shared/M3QCQX9PC?:display_count=n&:origin=viz_share_link])https://public.tableau.com/shared/M3QCQX9PC?:display_count=n&:origin=viz_share_link)
 - Python Code 
     - [NYC_CitiBike_Challenge.ipynb](NYC_CitiBike_Challenge.ipynb)
         - This code augments the raw data to generate a clean datafeame that was then used to generate visualizations on Tableau.
