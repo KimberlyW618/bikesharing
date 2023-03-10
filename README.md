@@ -43,7 +43,7 @@ In conclusion there are lots of possibilities to find all kinds of information i
 
 ![Images/general_data.png](Images/general_data.png)
 [Images/general_data.png](Images/general_data.png)
-- We are analyzing data from New York City CitiBike data from August 2019. This slide shows the total number of rides taken in August with a breakdown of customer types; subscriber, or not, as well as gender. We also see a bar graph with when people used the bikes. This helps us understand when peak hours happen, in magenta, and when the slowest hours, in blue, occur. This helps us understand when peak hours happen, in magenta (during the 8am hour and 4pm-8pm), and when the slowest hours, in blue (from 1am-6am), occur.
+- We are analyzing data from New York City CitiBike data from August 2019. This slide shows the total number of rides taken in August with a breakdown of customer types; subscriber, or not, as well as gender. We also see a bar graph with when people used the bikes. This helps us understand when peak hours happen, in magenta (during the 8am hour and 4pm-8pm), and when the slowest hours, in blue (from 1am-6am), occur.
 ------------------------------
 
 
@@ -61,19 +61,19 @@ In conclusion there are lots of possibilities to find all kinds of information i
 
 ![Images/trips_gender_weekday_hour.png](Images/trips_gender_weekday_hour.png)
 [Images/trips_gender_weekday_hour.png](Images/trips_gender_weekday_hour.png)
-- Trips by Gender(Weekday per Hour): This heat map depicts the busy times on average during a week and breaks the data down by gender. It tells us many things but most notable is that woman use more on the weekends all day, outside peak hours during the week. Males use the most during peak hours on weekdays.  
+- Trips by Gender(Weekday per Hour): This heat map depicts the busy times on average during a week and breaks the data down by gender. It tells us many things but most notable is that woman use alot on the weekends all day long, outside peak hours during the week. Males use the most during peak hours on weekdays.  
 ------------------------------
 
 
 ![Images/user_trips_gender_weekday.png](Images/user_trips_gender_weekday.png)
 [Images/user_trips_gender_weekday.png](Images/user_trips_gender_weekday.png)
-- User Type Trips by Gender by Weekday: A heat map showing the usage by day of the subscriber’s vs the regular customers, and further broken down by gender. This helps us understand that the biggest user group are male subscribers and that we are more likely to know the gender if they are subscribers. 
+- User Type Trips by Gender by Weekday: A heat map showing the usage by day of the subscriber’s vs the regular customers, and further broken down by gender. This helps us understand that the biggest user group is male subscribers and that we are more likely to know the gender if they are subscribers. 
 ------------------------------
 
 
 ![Images/maps.png](Images/maps.png)
 [Images/maps.png](Images/maps.png)
-- Station Usage Map:  These maps help us identify which stations are being used the most to start and end a ride. We see that Pershing Square North is used the most. 
+- Station Usage Map: These maps help us identify which stations are being used the most to start and end a ride. We see that the Pershing Square North station is used the most. 
  ------------------------------
 
 
@@ -85,7 +85,7 @@ In conclusion there are lots of possibilities to find all kinds of information i
 
 ![Images/most_usage.png](Images/most_usage.png)
 [Images/most_usage.png](Images/most_usage.png)
-- Most Bike Usage: A zoom in on the bikes used most, measured by the total amount of time they have been checked out, which is depicted by the percentage of the whole fleet. We see here that there are about 70+ bikes that are used the most and will need maintenance more often. 
+- Most Bike Usage: A zoom in on the bikes used most, measured by the total amount of time they have been checked out, which is depicted by the percentage of the whole fleet's ride time. We see here that there are about 70+ bikes that are used the most and will need maintenance more often. 
 
 
 
