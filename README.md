@@ -31,7 +31,7 @@ This is an analysis on CitiBike data a bike sharing company, from August 2019. T
 ### NYC CitiBike DataFrame Head Image 
 
 ![Images/NYC_CitiBike_df.png](Images/NYC_CitiBike_df.png)
-- [Images/NYC_CitiBike_df.png](Images/NYC_CitiBike_df.png)
+[Images/NYC_CitiBike_df.png](Images/NYC_CitiBike_df.png)
 
 ### Tableau Generated Data Visualizations 
 
