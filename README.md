@@ -1,7 +1,7 @@
 # bikesharing
 
 ## Overview 
-
+This is an analysis on CitiBike data a bike sharing company, from August 2019. The goal is to understand a bit about the business data in order to put together a potential similar business in Des Moines, Iowa. The hope is that with the breakdown of this information we can better glean best practices and come up with great ideas for a new bike sharing business.
 
 ### Resources
 - Data Sources: 
@@ -12,25 +12,22 @@
     - Jupyter Notebook
     - Tableau 
 
-### Generated Code and DataFram
-Tableau Story Link 
-[https://public.tableau.com/views/NYC_Bike_Analysis_16783385402330/Story?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/NYC_Bike_Analysis_16783385402330/Story?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+## Results
 
+### Generated Code, DataFram, and Tableau. 
+- Tableau Story Link 
+[https://public.tableau.com/views/NYC_Bike_Analysis_16783385402330/Story?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/NYC_Bike_Analysis_16783385402330/Story?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 - Python Code 
     - [NYC_CitiBike_Challenge.ipynb](NYC_CitiBike_Challenge.ipynb)
         - This code augments the raw data to generate a clean datafeame that was then used to generate visualizations on Tableau.
 - DataFrame Generated:
-    - https://drive.google.com/file/d/1uPbYFhi0iTfryIp0rlCcuW3rp6S1nYeG/view?usp=sharing 
-
-
-## Results
-
+    - [https://drive.google.com/file/d/1uPbYFhi0iTfryIp0rlCcuW3rp6S1nYeG/view?usp=sharing](https://drive.google.com/file/d/1uPbYFhi0iTfryIp0rlCcuW3rp6S1nYeG/view?usp=sharing) 
 
 ### Summary of Findings 
 
 
 
-## Images
+## Visualizations 
 
 ### NYC CitiBike DataFrame Head Image 
 - [Images/NYC_CitiBike_df.png](Images/NYC_CitiBike_df.png)
@@ -38,7 +35,7 @@ Tableau Story Link
 
 ### Tableau Generated Data Visualizations 
 
-- 
+- We are analyzing data from New York City CitiBike data from August 2019. This slide shows the total number of rides taken in August with a breakdown of customer types; subscriber, or not, as well as gender. We also see a bar graph with when people used the bikes. This helps us understand when peak hours happen, in magenta, and when the slowest hours, in blue, occur. 
 - [Images/general_data.png](Images/general_data.png)
 ![Images/general_data.png](Images/general_data.png)
 
@@ -47,9 +44,6 @@ Tableau Story Link
 ![Images/checkout_time.png](Images/checkout_time.png)
 
 - Trips by Weekday per Hour: This heat map depicts the busy times on average during a week.
-
-
-- Trips by Gender(Weekday per Hour): This heat map depicts the busy times on average during a week and breaks the data down by gender.
 - [Images/trips_weekday_hour.png](Images/trips_weekday_hour.png)
 ![Images/trips_weekday_hour.png](Images/trips_weekday_hour.png)
 
@@ -61,7 +55,7 @@ Tableau Story Link
 - [Images/user_trips_gender_weekday.png](Images/user_trips_gender_weekday.png)
 ![Images/user_trips_gender_weekday.png](Images/user_trips_gender_weekday.png)
 
-- End Station Usage Map:  This map helps us identify which stations are being used the most to end a ride.
+- Station Usage Map:  These maps helps us identify which stations are being used the most to start and end a ride.
 - [Images/maps.png](Images/maps.png)
 ![Images/maps.png](Images/maps.png)
 
